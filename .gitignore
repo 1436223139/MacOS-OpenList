@@ -1,0 +1,42 @@
+# macOS系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# 忽略Thumbs.db文件
+Thumbs.db
+
+# 编译和构建产物
+*.app/
+dmg_temp/
+release/*.dmg
+release/*.zip
+release/*.tar.gz
+release/*.zip
+release/*.exe
+
+# 应用数据目录
+~/Library/Application Support/OpenList/
+
+# 特殊文件
+Applications
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
+# 编辑器相关
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS生成的文件
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini

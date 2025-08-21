@@ -1,0 +1,2 @@
+6d26cddf54c38f6de4432cb454563ccf3cc7242c7da00eeb19df34504c89f04c  OpenList_v4.0.8.dmg
+a50ac8e94ebeb34a0ffcd9b4bb2c36e3ed2dd5c20e8b89e37239ebbc3d7df2d1  OpenList_v4.0.8.zip
